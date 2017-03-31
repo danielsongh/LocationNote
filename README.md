@@ -17,13 +17,15 @@ LocationNote is a location based app that sends notifications as reminders by us
  
 # What the app will look like roughly
 
-![demo1](/images/demo1.png =300x533)
+<img src="./images/demo1.png" "width=300 height=533"/>
 
 
-![demo2](/images/demo2.png =300x533)
+<img src="./images/demo2.png" "width=300 height=533"/>
 
 
-![demo3](/images/demo3.png =300x533)
+
+<img src="./images/demo3.png" "width=300 height=533"/>
+
 
 
 
