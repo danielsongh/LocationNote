@@ -1,17 +1,25 @@
 import UIKit
 import MapKit
 import CoreLocation
+import ChameleonFramework
 
 
 class MapViewController: UIViewController {
 
     @IBOutlet weak var mapView: MKMapView!
+    @IBOutlet weak var searchBar: UISearchBar!
     var annotationData = [NoteAnnotation]()
     
     let locationManager = CLLocationManager()
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        navigationController?.navigationBar.hideBottomHairline()
+        
+        
+        searchBar.layer.borderWidth = 1
+        searchBar.layer.borderColor = UIColor.flatSkyBlue.cgColor
+        
         setupLocationManager()
     }
     
