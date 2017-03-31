@@ -10,7 +10,7 @@ LocationNote is a location based app that sends notifications as reminders by us
 - [ ] __Creating notes__
 
 
-- [ ] Annotationg UI
+- [ ] Annotation UI
 
 
 - [ ] Data persistency
