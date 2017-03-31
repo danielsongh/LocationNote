@@ -4,16 +4,16 @@ LocationNote is a location based app that sends notifications as reminders by us
 
 # To implement
 
-* ~~ Keep track of device's location~~
+- [x] Keep track of device's location
 
 
-* __Creating notes__
+- [ ] __Creating notes__
 
 
-* Annotationg UI
+- [ ] Annotationg UI
 
 
-* Data persistency
+- [ ] Data persistency
  
 # UI - rough
 
